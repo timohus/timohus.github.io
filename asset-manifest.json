@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fb8a8ae.chunk.css",
+    "main.js": "/static/js/main.c3754418.chunk.js",
+    "main.js.map": "/static/js/main.c3754418.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae8b9143.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae8b9143.js.map",
+    "static/js/2.fd9635dc.chunk.js": "/static/js/2.fd9635dc.chunk.js",
+    "static/js/2.fd9635dc.chunk.js.map": "/static/js/2.fd9635dc.chunk.js.map",
+    "static/js/3.f8d2ff8d.chunk.js": "/static/js/3.f8d2ff8d.chunk.js",
+    "static/js/3.f8d2ff8d.chunk.js.map": "/static/js/3.f8d2ff8d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9fb8a8ae.chunk.css.map": "/static/css/main.9fb8a8ae.chunk.css.map",
+    "static/js/2.fd9635dc.chunk.js.LICENSE.txt": "/static/js/2.fd9635dc.chunk.js.LICENSE.txt",
+    "static/media/Acinetobacter.baumanii_0008.c8fd795c.jpg": "/static/media/Acinetobacter.baumanii_0008.c8fd795c.jpg",
+    "static/media/Bifidobacterium.spp_0005.291912a1.jpg": "/static/media/Bifidobacterium.spp_0005.291912a1.jpg",
+    "static/media/Bifidobacterium.spp_0007.2163e5a1.jpg": "/static/media/Bifidobacterium.spp_0007.2163e5a1.jpg",
+    "static/media/Candida.albicans_0011.e601fb8c.jpg": "/static/media/Candida.albicans_0011.e601fb8c.jpg",
+    "static/media/Escherichia.coli_0020.42cbd8b6.jpg": "/static/media/Escherichia.coli_0020.42cbd8b6.jpg",
+    "static/media/Fusobacterium_0010.c4fbaacf.jpg": "/static/media/Fusobacterium_0010.c4fbaacf.jpg",
+    "static/media/Lactobacillus.rhamnosus_0006.3d929abd.jpg": "/static/media/Lactobacillus.rhamnosus_0006.3d929abd.jpg",
+    "static/media/Lactobacillus.rhamnosus_0019.ddb75d35.jpg": "/static/media/Lactobacillus.rhamnosus_0019.ddb75d35.jpg",
+    "static/media/Micrococcus.spp_0011.d38832e4.jpg": "/static/media/Micrococcus.spp_0011.d38832e4.jpg",
+    "static/media/Micrococcus.spp_0017.9ed6bed3.jpg": "/static/media/Micrococcus.spp_0017.9ed6bed3.jpg",
+    "static/media/Neisseria.gonorrhoeae_0010.52a9216c.jpg": "/static/media/Neisseria.gonorrhoeae_0010.52a9216c.jpg",
+    "static/media/Proteus_0007.d2c6b018.jpg": "/static/media/Proteus_0007.d2c6b018.jpg",
+    "static/media/Proteus_0010.2cbd3547.jpg": "/static/media/Proteus_0010.2cbd3547.jpg",
+    "static/media/Staphylococcus.saprophiticus_0007.58a18e19.jpg": "/static/media/Staphylococcus.saprophiticus_0007.58a18e19.jpg",
+    "static/media/Staphylococcus.saprophiticus_0009.374bdcdf.jpg": "/static/media/Staphylococcus.saprophiticus_0009.374bdcdf.jpg",
+    "static/media/lab.6f1bc5ff.png": "/static/media/lab.6f1bc5ff.png",
+    "static/media/petri-dish-4.05990dae.png": "/static/media/petri-dish-4.05990dae.png",
+    "static/media/v5.70bcacfd.png": "/static/media/v5.70bcacfd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae8b9143.js",
+    "static/js/2.fd9635dc.chunk.js",
+    "static/css/main.9fb8a8ae.chunk.css",
+    "static/js/main.c3754418.chunk.js"
+  ]
+}
